@@ -52,7 +52,6 @@ ptyprocess==0.5.1
 pudb==2016.2
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
-PyChart==1.39
 pycparser==2.17
 pydot==1.2.3
 Pygments==2.1.3
