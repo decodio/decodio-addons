@@ -23,6 +23,6 @@ For detailed example of REST API refer *readme.md*
         'views/res_user_view.xml',
         'security/ir.model.access.csv',
     ],
-    'installable': True,
+    'installable': False,
     'auto_install': False,
 }
